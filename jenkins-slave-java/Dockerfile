@@ -1,1 +1,1 @@
-FROM contryboy/docker-jenkins-slaves:base
+FROM contryboy/jenkins-slave-base

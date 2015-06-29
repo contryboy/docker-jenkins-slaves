@@ -1,3 +1,3 @@
-FROM contryboy/docker-jenkins-slaves:base
+FROM contryboy/jenkins-slave-base
 
 RUN apt-get install -y build-essential
